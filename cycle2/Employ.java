@@ -1,3 +1,4 @@
+package cycle2;
 abstract class Employee {
     String name;
     int id;

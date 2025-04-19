@@ -1,3 +1,4 @@
+package javabasics;
 import java.util.Scanner;
 
 public class Paliandrome {

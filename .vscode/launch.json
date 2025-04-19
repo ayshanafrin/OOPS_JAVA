@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Personmain",
+            "request": "launch",
+            "mainClass": "cycle2.Personmain",
+            "projectName": "java_d3eaa9a4"
+        },
+        {
+            "type": "java",
+            "name": "Circlecalc",
+            "request": "launch",
+            "mainClass": "javabasics.Circlecalc",
+            "projectName": "java_d3eaa9a4"
+        },
+        {
+            "type": "java",
+            "name": "StudentRegistrationForm",
+            "request": "launch",
+            "mainClass": "StudentRegistrationForm",
+            "projectName": "java_d3eaa9a4"
+        },
+        {
+            "type": "java",
+            "name": "StudentRegistrationForm",
+            "request": "launch",
+            "mainClass": "assign.StudentRegistrationForm",
+            "projectName": "java_d3eaa9a4"
+        },
+        {
+            "type": "java",
+            "name": "ProducerConsumer",
+            "request": "launch",
+            "mainClass": "ProducerConsumer",
+            "projectName": "java_d3eaa9a4"
+        },
+        {
+            "type": "java",
+            "name": "GradeValidator",
+            "request": "launch",
+            "mainClass": "GradeValidator",
+            "projectName": "java_d3eaa9a4"
+        },
+        {
+            "type": "java",
+            "name": "PhoneNumberValidator",
+            "request": "launch",
+            "mainClass": "PhoneNumberValidator",
+            "projectName": "java_d3eaa9a4"
+        },
+        {
+            "type": "java",
+            "name": "PasswordValidator",
+            "request": "launch",
+            "mainClass": "PasswordValidator",
+            "projectName": "java_d3eaa9a4"
+        },
+        {
+            "type": "java",
             "name": "Shape1",
             "request": "launch",
             "mainClass": "Shape1",
