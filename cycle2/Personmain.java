@@ -1,5 +1,4 @@
 package cycle2;
-import java.util.Scanner;
 class Person {
     
     String name;

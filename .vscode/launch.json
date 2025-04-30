@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ProducerConsumer",
+            "request": "launch",
+            "mainClass": "cycle3.ProducerConsumer",
+            "projectName": "java_d3eaa9a4"
+        },
+        {
+            "type": "java",
+            "name": "GradeValidator",
+            "request": "launch",
+            "mainClass": "cycle3.GradeValidator",
+            "projectName": "java_d3eaa9a4"
+        },
+        {
+            "type": "java",
+            "name": "PhoneNumberValidator",
+            "request": "launch",
+            "mainClass": "cycle3.PhoneNumberValidator",
+            "projectName": "java_d3eaa9a4"
+        },
+        {
+            "type": "java",
+            "name": "PasswordValidator",
+            "request": "launch",
+            "mainClass": "cycle3.PasswordValidator",
+            "projectName": "java_d3eaa9a4"
+        },
+        {
+            "type": "java",
+            "name": "StringReplace",
+            "request": "launch",
+            "mainClass": "cycle2.StringReplace",
+            "projectName": "java_d3eaa9a4"
+        },
+        {
+            "type": "java",
+            "name": "paliandrmes",
+            "request": "launch",
+            "mainClass": "cycle2.paliandrmes",
+            "projectName": "java_d3eaa9a4"
+        },
+        {
+            "type": "java",
+            "name": "countvc",
+            "request": "launch",
+            "mainClass": "cycle2.countvc",
+            "projectName": "java_d3eaa9a4"
+        },
+        {
+            "type": "java",
+            "name": "SortedArr",
+            "request": "launch",
+            "mainClass": "cycle2.SortedArr",
+            "projectName": "java_d3eaa9a4"
+        },
+        {
+            "type": "java",
+            "name": "Employ",
+            "request": "launch",
+            "mainClass": "cycle2.Employ",
+            "projectName": "java_d3eaa9a4"
+        },
+        {
+            "type": "java",
+            "name": "Studentc",
+            "request": "launch",
+            "mainClass": "cycle1.Studentc",
+            "projectName": "java_d3eaa9a4"
+        },
+        {
+            "type": "java",
+            "name": "BankAccount",
+            "request": "launch",
+            "mainClass": "cycle1.BankAccount",
+            "projectName": "java_d3eaa9a4"
+        },
+        {
+            "type": "java",
+            "name": "Paliandrome",
+            "request": "launch",
+            "mainClass": "javabasics.Paliandrome",
+            "projectName": "java_d3eaa9a4"
+        },
+        {
+            "type": "java",
             "name": "Personmain",
             "request": "launch",
             "mainClass": "cycle2.Personmain",

@@ -1,3 +1,4 @@
+package cycle3;
 class DataBuffer {
     int data;
     boolean hasData = false;
